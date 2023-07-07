@@ -1,9 +1,12 @@
 # PIXEL_RUNNER
-A simple game
-Run the following code before using this application:
+A simple platform game
+Libraries used: pygame, random
+- Make sure that you have Python installed in your computer
+- Run the following code before using this application:
 
 ```pip install pygame```
 
-Libraries used : pygame, random
+
+
 
 
